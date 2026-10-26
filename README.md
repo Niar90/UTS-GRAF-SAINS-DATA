@@ -1,4 +1,4 @@
-#UTS Graf Sains Data: Rekomendasi RetailRocket dengan Neo4j
+# UTS Graf Sains Data: Rekomendasi RetailRocket dengan Neo4j
 
 Nama: Nia Ayu Agustin
 NIM: 24031554081
@@ -10,5 +10,5 @@ Proses analisis dilakukan menggunakan pendekatan Vector Space Model (VSM) untuk 
 
 Evaluasi sistem dilakukan menggunakan metrik Hit@5 dan NDCG@5 berdasarkan pembagian data menjadi periode training pada 1–15 Juli 2015 dan periode testing pada 1–15 Agustus 2015. Hasil pengujian menunjukkan nilai Hit@5 dan NDCG@5 sebesar 0. Hal ini dipengaruhi oleh karakteristik dataset yang sangat sparse, dengan sebagian besar pengguna hanya memiliki satu interaksi, serta evaluasi yang dilakukan pada satu pengguna.
 
-Sumber data
+## Sumber data
 RetailRocket e-commerce dataset (Kaggle): https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset Dataset asli tidak diunggah karena berukuran besar; yang diunggah adalah hasil filter P1 dan P2.
